@@ -1,4 +1,6 @@
-# Bel
+# Bharat Electronics Limited
+
+![Header](https://github.com/user-attachments/assets/399e1ed4-b6e5-4942-b333-67a8e5c99947)
 
 ## Overall Working Summary & Recommendations
 ![DAY Date](https://img.shields.io/badge/DAY_01-06/05/2025-blue?style=for-the-badge)
