@@ -16,3 +16,8 @@
 - Gathered information about things to get into BEL.
 - Basic leagel knowledge associated to the VAPT analyst.
 - Reports of the VAPT analysts.
+
+![DAY Date](https://img.shields.io/badge/DAY_04-09/05/2025-blue?style=for-the-badge)
+- Reviewed a social engineering tool for government purpose.
+- Started learning firmware analysis
+- Enhanced the `stig_automation.py` code to the next level
